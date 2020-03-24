@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88a69cdf-223f-4a26-816f-40b086eb7263" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZZzayMZuHhMrxVhGNnQixlg2II" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88a69cdf-223f-4a26-816f-40b086eb7263" name="Default Changelist" comment="" />
+      <created>1585061472255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585061472255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="275" width="540" height="524" key="StructurePopup" timestamp="1585062325359">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="570" y="275" width="540" height="524" key="StructurePopup/0.0.1680.1050@0.0.1680.1050" timestamp="1585062325359" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1585061478237">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585061478237" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585062011102">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585062011102" />
+  </component>
+</project>
